@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RodolfoHnrqs
 - 👀 I’m interested in learn everything about programming and develop
-- 🌱 I’m currently learning HTML and CSS
+- 🌱 I’m currently learning HTML, CSS and JavaScript
 - 💞️ I’m looking to collaborate on everything!! Collaborate is learning!
 - 📫 How to reach me:
 
